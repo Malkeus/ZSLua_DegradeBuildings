@@ -1,0 +1,16 @@
+ZSLua_DegradeBuildings v3 mod - todo and issues
+
+2017-10-20
+
+1. Cleanup code in ./lua (use ProFi)
+2. Cleanup code in ./lua-tools (use ProFi)
+3. Implement building degrading of buildings from the blacklist (fix json with overmaps).
+4. Make building degrade more interesting
+5. Make building degrade depend on time played (write time in file using lua-time-callbacks and read it when generating new buildings).
+6. Add lava, fire, gas, radiation and other fields? Leaked toilets and sinks?
+7. Add traps in houses (probably near doors and windows)?
+8. Add more graffiti strings?
+9. Break furniture?
+10. Remove items (emulate looting of houses by off-screen NPCs)?
+11. Do not degrade metal doors to wooden doors
+12. Glass shard on broken glass windows.

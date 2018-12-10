@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "ZSLua_DegradeBuildings",
+    "name": "ZSLua_DegradeBuildings",
+    "authors": [ "ZhilkinSerg" ],
+    "description": "Adds some post-apocalyptic flavor to buildings via Lua-scripting - buildings are now start to fall apart.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
